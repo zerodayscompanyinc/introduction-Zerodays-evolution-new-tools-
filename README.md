@@ -452,8 +452,8 @@ Full documentation modal with:
 ## Deployment
 
 The tool is deployed as a **static single HTML file** on:
-- **Vercel** (HTTPS): `https://zerodays-evolution.vercel.app/` — zero serverless functions, zero API routes, pure static file serving
-- **Custom domain** (HTTP): `http://zerodays-evolution.ultimatetool.2bd.net/` — reverse proxy to the same static file
+- **Vercel** (HTTPS): https://zerodays-evolution.vercel.app/ — zero serverless functions, zero API routes, pure static file serving
+- **Custom domain** (HTTP): http://zerodays-evolution.ultimatetool.2bd.net/ — reverse proxy to the same static file
 
 No server-side rendering, no database, no authentication, no rate limiting — because there is no server logic at all.
 
