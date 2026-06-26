@@ -12,8 +12,8 @@
 ZeroDays Evolution is a **100% client-side, single-file HTML application** that performs **real browser data extraction** directly from the user's machine. It requires absolutely **no backend server, no API keys, no external services, and no simulated/demo/fake data**. Every piece of information it retrieves is **real, live data** sourced exclusively through native browser APIs and the File System Access API (`window.showDirectoryPicker`). The tool runs entirely in the browser's JavaScript runtime — no Node.js, no Electron, no Python, no server-side component of any kind.
 
 Live deployments:
-- **HTTP:** `http://zerodays-evolution.ultimatetool.2bd.net/`
-- **HTTPS:** `https://zerodays-evolution.vercel.app/`
+- **HTTP:** : http://zerodays-evolution.ultimatetool.2bd.net/
+- **HTTPS:** : https://zerodays-evolution.vercel.app/
 
 ---
 
